@@ -1,5 +1,5 @@
-### Hi there 👋
-✨Minj0i git✨
+### Hi there 안녕하세요 👋
+✨민정이 git✨
 <!--
 **minj0i/minj0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
