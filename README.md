@@ -1,4 +1,4 @@
-### Hi there 안녕하세요👋
+### 안녕하세요👋
 📫 How to reach me: mjkim9139@gmail.com 
 <!--
 **minj0i/minj0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
