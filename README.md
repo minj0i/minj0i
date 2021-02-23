@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj0i&count_bg=%233787DD&title_bg=%23101010&icon=mercedes.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://github.com/minj0i)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj0i&count_bg=%233787DD&title_bg=%23101010&icon=mercedes.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=true)](https://github.com/minj0i)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjkim9139@gmail.com)](mailto:mjkim9139@gmail.com)
 ### 안녕하세요👋   
 📫 How to reach me: mjkim9139@gmail.com || ⬆ Click Gmail Badge ⬆   
