@@ -3,8 +3,28 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjkim9139@gmail.com)](mailto:mjkim9139@gmail.com)
 ### 안녕하세요👋   
 📫 How to reach me: mjkim9139@gmail.com || ⬆ Click Gmail Badge ⬆   
-🔭 Started With JAVA   
-🌱 Currently Interested In Front-End
+🔭 Skills & Expreience
+- JavaScript, HTML5, CSS
+- ReactJS
+- VueJS
+- NodeJS
+- MySQL, Oracle
+- JAVA
+- ES6, TypeScript
+- Firebase
+- Docker
+- Git Flow, Npm, Yarn
+- Goolge Maps
+- One Map
+
+🌱 Task Systems
+- Jira
+- Bitbucket
+- GitHub
+- GitLab
+- Source Tree
+- Figma
+
 <!--
 **minj0i/minj0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
